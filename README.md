@@ -65,7 +65,7 @@ searching and replacement like sed (e.g. s/template/replacement/)
 
 ---
 
-![viCommandDiagramm](./pics/viCommandsDiagramm.png)
+![viCommandDiagramm](./pics/viCommandsDiagramm2.png)
 
 ---
 
