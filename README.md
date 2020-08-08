@@ -2,7 +2,7 @@
 
 ## linux
 
-# vi-manual
+### vi-manual
 
 Beginning
 ```bash
@@ -12,21 +12,21 @@ $ vi filename
 after the start: **command mode**
 commands are described by **1** letter  
 
-### insertion
+#### insertion
 | commands | corresponds |  
 |:---|:---|
 | i | insert at actual cursor position |   
 | a | insert after actual cursor postion |  
 | o | insert in a newl line after the actuel cursor postion |  
 
-### replacement
+#### replacement
 
 | command | corresponds |
 |:---|:---|
 | r | one character will be overwrite **and** subsequently automatic in command mode |
 | R | At cursor postionen many characters can be overwritten |
 
-### command mode
+#### command mode
 
 | command | corresponds |
 |:---|:---|
@@ -39,7 +39,8 @@ commands are described by **1** letter
 | I | searching: subsequently enter the search term in the last line |
 | n | Repetition of the last searching |
 | d **and** p **or** P | move|
-### cursor positioning
+
+#### cursor positioning
 
 | command | corresponds |
 |:--- | :--- |
@@ -47,3 +48,5 @@ commands are described by **1** letter
 | k | up |
 | I/j | left |
 | j | down |
+
+---
