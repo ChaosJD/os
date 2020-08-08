@@ -52,3 +52,7 @@ commands are described by **1** letter
 ---
 
 ![viCommandDiagramm](./pics/viCommandsDiagramm.png)
+
+---
+
+![viCursorPositioning](./pics/viCursorPositioning.png)
