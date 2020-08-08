@@ -50,3 +50,5 @@ commands are described by **1** letter
 | j | down |
 
 ---
+
+![viCommandDiagramm](./pics/viCommandsDiagramm.png)
