@@ -12,14 +12,14 @@ $ vi filename
 after the start: **command mode**
 commands are described by **1** letter  
 
-#### insertion
+#### insertion mode
 | commands | corresponds |  
 |:---|:---|
 | i | insert at actual cursor position |   
 | a | insert after actual cursor postion |  
 | o | insert in a newl line after the actuel cursor postion |  
 
-#### replacement
+#### replacement mode
 
 | command | corresponds |
 |:---|:---|
