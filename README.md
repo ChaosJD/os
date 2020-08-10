@@ -70,3 +70,6 @@ searching and replacement like sed (e.g. s/template/replacement/)
 ---
 
 ![viCursorPositioning](./pics/viCursorPositioning.png)
+
+# article
+* [Basic vi commands (cheat sheet)](https://www.thegeekdiary.com/basic-vi-commands-cheat-sheet/)
