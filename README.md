@@ -3,7 +3,7 @@
 ## linux
 
 ### article
-* [Linux in den Rechnern, Javascript in den Touchscreens](https://www.golem.de/news/spacex-linux-in-den-rechnern-javascript-in-den-touchscreens-2006-149084.html)
+* [Linux in den Rechnern, Javascript in den Touchscreens - SpaceX](https://www.golem.de/news/spacex-linux-in-den-rechnern-javascript-in-den-touchscreens-2006-149084.html)
 
 ### vi-manual
 
