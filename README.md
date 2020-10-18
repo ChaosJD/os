@@ -5,6 +5,9 @@
 ### article
 * [Linux in den Rechnern, Javascript in den Touchscreens - SpaceX](https://www.golem.de/news/spacex-linux-in-den-rechnern-javascript-in-den-touchscreens-2006-149084.html)
 
+### manual
+* [makefile-GNU](https://www.gnu.org/software/make/manual/make.pdf)
+
 ### vi-manual
 
 Beginning
