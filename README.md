@@ -77,6 +77,9 @@ searching and replacement like sed (e.g. s/template/replacement/)
 
 ![viCursorPositioning](./pics/viCursorPositioning.png)
 
-# article
+### article
 * [Basic vi commands (cheat sheet)](https://www.thegeekdiary.com/basic-vi-commands-cheat-sheet/)
 * [what is a makefile](https://opensource.com/article/18/8/what-how-makefile)
+ 
+### vids
+* [Linux Performance: Vortrag von und mit Martin Schurz](https://youtu.be/LIl7JSJL8i8)
