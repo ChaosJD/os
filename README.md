@@ -84,6 +84,7 @@ searching and replacement like sed (e.g. s/template/replacement/)
 ### article
 * [Basic vi commands (cheat sheet)](https://www.thegeekdiary.com/basic-vi-commands-cheat-sheet/)
 * [what is a makefile](https://opensource.com/article/18/8/what-how-makefile)
+* [3 tools for doing presentations from the command line](https://opensource.com/article/19/8/command-line-presentation-tools)
  
 ### vids
 * [Linux Performance: Vortrag von und mit Martin Schurz](https://youtu.be/LIl7JSJL8i8)
